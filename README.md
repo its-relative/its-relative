@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @its-relative
+- 👋 Hi, I’m Sapeksh Tomar
 - 👀 I’m interested in Machine Learning and the vast possibilities of the same.
-- 🌱 I’m currently learning Artificial Intelligence 
-- 💞️ I’m looking to collaborate on Machine Learning
+- 🌱 I’m currently learning Artificial Intelligence. 
+- 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 How to reach me itsrelative10@gmail.com
 
 <!---
