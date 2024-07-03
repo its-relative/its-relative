@@ -1,16 +1,18 @@
-# Hi there! 👋
+# Hi there, I'm [Your Name] 👋
 
-I'm Sapeksh Tomar, a passionate learner and enthusiast in the field of Machine Learning.
+## 🏆 My GitHub Trophy Case
 
-- 🔭 I’m currently exploring the fascinating world of Artificial Intelligence.
-- 🌱 I’m on a journey of continuous learning and growth in the realm of ML.
-- 💬 Let's connect and chat about all things related to Machine Learning!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-## Get in Touch
-- 💞️ I’m looking to collaborate on Machine Learning.
-- 📫 Email: sapytomar10@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-<!---
-its-relative/its-relative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 Notable Projects
+- [Project 1](https://github.com/your-username/project1): A brief description.
+- [Project 2](https://github.com/your-username/project2): A brief description.
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 Stats
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
