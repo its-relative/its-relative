@@ -7,8 +7,8 @@ I'm Sapeksh Tomar, a data-driven professional with a robust background in data s
 I'm focused on developing machine learning models and working with big data technologies like Hadoop, Spark, and DataBricks 🤯. My goal is to continuously improve my skills and contribute to impactful data-driven solutions 📈.
 
 ## Social Media:
-* [LinkedIn] ((https://www.linkedin.com/in/sapeksh-tomar/)) 👥
-* [GitHub] ((https://github.com/its-relative)) 📊
+* [LinkedIn] (https://www.linkedin.com/in/sapeksh-tomar/) 👥
+* [GitHub] (https://github.com/its-relative) 📊
 
 ## Skills
 
