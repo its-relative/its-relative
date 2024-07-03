@@ -2,17 +2,17 @@
 
 ## 🏆 My GitHub Trophy Case
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+!GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+!Top Languages
 
 ## 🌟 Notable Projects
-- [Project 1](https://github.com/your-username/project1): A brief description.
-- [Project 2](https://github.com/your-username/project2): A brief description.
+- Project 1: A brief description.
+- Project 2: A brief description.
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username)](https://github.com/ryo-ma/github-profile-trophy)
+!trophy
 
 ## 📊 Stats
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)
+!GitHub followers
+!GitHub stars
