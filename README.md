@@ -10,43 +10,56 @@ I'm focused on developing machine learning models and working with big data tech
 * [LinkedIn] (https://www.linkedin.com/in/sapeksh-tomar/) 👥
 * [GitHub] (https://github.com/its-relative) 📊
 
-## Skills
+## Skills:
+<table>
+  <tr>
+    <td>
 
 ### Programming Languages:
-#### Python 🐍
-#### JavaScript 📜
-#### Java ☕️
-#### C++ 🤖
-#### C 🔩
+- Python 🐍
+- JavaScript 📜
+- Java ☕️
+- C++ 🤖
+- C 🔩
 
 ### Data Science and Analysis:
-#### Machine Learning 🤖
-#### Natural Language Processing 📝
-#### Data Visualization 📊
-#### Statistical Analysis 📊
-#### Predictive Modeling 🔮
-#### Computer Vision 👀
-#### Recommendation Systems 📈
+- Machine Learning 🤖
+- Natural Language Processing 📝
+- Data Visualization 📊
+- Statistical Analysis 📊
+- Predictive Modeling 🔮
+- Computer Vision 👀
+- Recommendation Systems 📈
+
+    </td>
+    <td>
 
 ### Data Management and Cloud Computing:
-#### SQL 📊
-#### Hadoop 🤖
-#### Spark ⚡️
-#### DataBricks 📊
-#### Azure ☁️
-#### AWS ☁️
-#### Google Cloud Platform ☁️
+- SQL 📊
+- Hadoop 🤖
+- Spark ⚡️
+- DataBricks 📊
+- Azure ☁️
+- AWS ☁️
+- Google Cloud Platform ☁️
 
 ### Software Tools:
-#### Tableau 📊
-#### Excel 📊
-#### PowerPoint 📊
-#### Jupyter Notebooks 📝
-#### Git 📊
-#### Visual Studio Code 📊
-#### Google Colab 📊
-#### Xceptor 🤖
+- Tableau 📊
+- Excel 📊
+- PowerPoint 📊
+- Jupyter Notebooks 📝
+- Git 📊
+- Visual Studio Code 📊
+- Google Colab 📊
+- Xceptor 🤖
+
+    </td>
+    <td>
 
 ### Operating Systems:
-#### Windows 10/11 🖥️
-#### Linux (Ubuntu, Pop OS, Kali Linux) 🤖
+- Windows 10/11 🖥️
+- Linux (Ubuntu, Pop OS, Kali Linux) 🤖
+
+    </td>
+  </tr>
+</table>
