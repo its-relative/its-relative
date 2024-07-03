@@ -22,15 +22,15 @@ I'm focused on developing machine learning models and working with big data tech
 - C++ 🤖
 - C 🔩
 
-### Data Science and Analysis:
-- Machine Learning 🤖
-- Natural Language Processing 📝
-- Data Visualization 📊
-- Statistical Analysis 📊
-- Predictive Modeling 🔮
-- Computer Vision 👀
-- Recommendation Systems 📈
-
+### Software Tools:
+- Tableau 📊
+- Excel 📊
+- PowerPoint 📊
+- Jupyter Notebooks 📝
+- Git 📊
+- Visual Studio Code 📊
+- Google Colab 📊
+- Xceptor 🤖
     </td>
     <td>
 
@@ -43,22 +43,21 @@ I'm focused on developing machine learning models and working with big data tech
 - AWS ☁️
 - Google Cloud Platform ☁️
 
-### Software Tools:
-- Tableau 📊
-- Excel 📊
-- PowerPoint 📊
-- Jupyter Notebooks 📝
-- Git 📊
-- Visual Studio Code 📊
-- Google Colab 📊
-- Xceptor 🤖
-
-    </td>
-    <td>
-
 ### Operating Systems:
 - Windows 10/11 🖥️
 - Linux (Ubuntu, Pop OS, Kali Linux) 🤖
+
+    </td>
+    <td>
+### Data Science and Analysis:
+- Machine Learning 🤖
+- Natural Language Processing 📝
+- Data Visualization 📊
+- Statistical Analysis 📊
+- Predictive Modeling 🔮
+- Computer Vision 👀
+- Recommendation Systems 📈
+
 
     </td>
   </tr>
