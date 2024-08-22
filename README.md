@@ -9,56 +9,13 @@ I'm focused on developing machine learning models and working with big data tech
 ## Social Media:
 * [LinkedIn] (https://www.linkedin.com/in/sapeksh-tomar/) 👥
 * [GitHub] (https://github.com/its-relative) 📊
+## Skills
 
-## Skills:
-<table>
-  <tr>
-    <td>
+| Category                              | Details                                                                                                                                                                                                 |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**             | Python 🐍, JavaScript 📜, Java ☕️, C++ 🤖, C 🔩                                                                                                                                                          |
+| **Software Tools**                    | Tableau 📊, Excel 📊, PowerPoint 📊, Jupyter Notebooks 📝, Git 🌐, Visual Studio Code 💻, Google Colab 📝, Xceptor 🤖                                                                                      |
+| **Data Management and Cloud Computing** | SQL 📊, Hadoop 🤖, Spark ⚡️, DataBricks 📊, Azure ☁️, AWS ☁️, Google Cloud Platform ☁️                                                                                                                    |
+| **Operating Systems**                 | Windows 10/11 🖥️, Linux (Ubuntu, Pop OS, Kali Linux) 🐧                                                                                                                                                 |
+| **Data Science and Analysis**         | Machine Learning 🤖, Natural Language Processing 📝, Data Visualization 📊, Statistical Analysis 📊, Predictive Modeling 🔮, Computer Vision 👀, Recommendation Systems 📈                                 |
 
-### Programming Languages:
-- Python 🐍
-- JavaScript 📜
-- Java ☕️
-- C++ 🤖
-- C 🔩
-
-### Software Tools:
-- Tableau 📊
-- Excel 📊
-- PowerPoint 📊
-- Jupyter Notebooks 📝
-- Git 📊
-- Visual Studio Code 📊
-- Google Colab 📊
-- Xceptor 🤖
-    </td>
-    <td>
-
-### Data Management and Cloud Computing:
-- SQL 📊
-- Hadoop 🤖
-- Spark ⚡️
-- DataBricks 📊
-- Azure ☁️
-- AWS ☁️
-- Google Cloud Platform ☁️
-
-### Operating Systems:
-- Windows 10/11 🖥️
-- Linux (Ubuntu, Pop OS, Kali Linux) 🤖
-
-    </td>
-    <td>
-### Data Science and Analysis:
-- Machine Learning 🤖
-- Natural Language Processing 📝
-- Data Visualization 📊
-- Statistical Analysis 📊
-- Predictive Modeling 🔮
-- Computer Vision 👀
-- Recommendation Systems 📈
-
-
-    </td>
-  </tr>
-</table>
