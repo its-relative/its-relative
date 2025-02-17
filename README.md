@@ -9,6 +9,7 @@ I'm focused on developing machine learning models and working with big data tech
 ## Social Media:
 * [LinkedIn] (https://www.linkedin.com/in/sapeksh-tomar/) 👥
 * [GitHub] (https://github.com/its-relative) 📊
+* [HackerRank] (https://www.hackerrank.com/profile/sapytomar10) 👨‍💻
 ## Skills
 
 | Category                              | Details                                                                                                                                                                                                 |
